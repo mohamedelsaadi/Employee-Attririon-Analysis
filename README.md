@@ -62,6 +62,7 @@ Align compensation with industry standards for departments like Sales & R&D.
 ✅ Support Commuters: Provide allowances, flexible hours, or remote work options.
 
 ✅ Mentorship for Promotions: Pair newly promoted employees with mentors to ensure smoother transitions.
+![bandicam 2024-12-17 12-24-49-952](https://github.com/user-attachments/assets/0da3809e-6b8c-42e8-b24a-02b142bd748a)
 ![bandicam 2024-12-17 12-20-35-135](https://github.com/user-attachments/assets/81ba01c6-76b2-44d1-96f4-00e570c09323)
 ![bandicam 2024-12-17 12-20-40-776](https://github.com/user-attachments/assets/dc9825b1-576d-4c47-96fb-0671fd56250c)
 ![bandicam 2024-12-17 12-20-46-175](https://github.com/user-attachments/assets/a67dc351-68e4-4966-9e68-96c8ad36a8a6)
