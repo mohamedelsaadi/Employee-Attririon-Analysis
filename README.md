@@ -1,4 +1,4 @@
-# Employee-Attririon-Analysis
+# Employee-Attrition-Analysis
 ✨ Employee Attrition Analysis with Power BI ✨
 
 I recently completed an in-depth Employee Attrition Analysis using Power BI, where I uncovered key factors contributing to employee turnover and proposed actionable insights to help organizations boost retention. Here's a quick overview of my approach, findings, and recommendations:
